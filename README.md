@@ -1,4 +1,4 @@
-# Charger Dasboard App
+# Charger Dashboard App
 
 This Next.js application provides a dashboard to play around with performing CRUD operation on chargers. You can also view realtion of a charger with its station, perform filtering and share the filtered url with others.
 
