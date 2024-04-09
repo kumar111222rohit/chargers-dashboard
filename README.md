@@ -98,6 +98,26 @@ To run tests, run the following command
 
   https://drive.google.com/file/d/1XcSbBNkw0BB4iZkGHiodV4H2QPX6kBKh/view?usp=sharing
 
+  <img width="955" alt="Screenshot 2024-04-09 at 15 55 55" src="https://github.com/kumar111222rohit/chargers-dashboard/assets/8679506/a79df49a-0955-43ed-897f-f28f02c90534">
+
+
+### Screenshots
+<img width="1728" alt="Screenshot 2024-04-09 at 15 56 41" src="https://github.com/kumar111222rohit/chargers-dashboard/assets/8679506/6e70b58c-5b6c-4160-a7c4-44a4a1fdbc29">
+
+<img width="1724" alt="Screenshot 2024-04-09 at 15 57 01" src="https://github.com/kumar111222rohit/chargers-dashboard/assets/8679506/a2834838-60ac-402c-af67-346c263aaecd">
+
+
+<img width="1728" alt="Screenshot 2024-04-09 at 15 57 16" src="https://github.com/kumar111222rohit/chargers-dashboard/assets/8679506/47e6c857-9a5c-49ea-b995-c29366e5b0d5">
+
+<img width="1724" alt="Screenshot 2024-04-09 at 15 57 31" src="https://github.com/kumar111222rohit/chargers-dashboard/assets/8679506/51e411c2-5486-4eb0-b051-d5a62c80c2ea">
+
+
+<img width="1724" alt="Screenshot 2024-04-09 at 15 57 51" src="https://github.com/kumar111222rohit/chargers-dashboard/assets/8679506/a79bfb6b-4d53-4e3a-b71f-0932b6306248">
+
+
+
+
+
 ## Areas of improvement/known issues
 
 - Make table view better in mobile view
