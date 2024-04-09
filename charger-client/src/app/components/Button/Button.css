@@ -1,0 +1,84 @@
+.submit-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 6px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 16px;
+  transition:
+    background-color 0.3s,
+    transform 0.2s;
+  margin-left: 4px;
+  border: none;
+}
+
+.submit-button:hover {
+  background-color: #45a049;
+  transform: scale(1.05);
+}
+
+.submit-button:active {
+  transform: scale(0.95);
+  background-color: #3e8e41;
+}
+.submit-button:disabled {
+  transform: scale(0.95);
+  background-color: #e5e7eb;
+  color: #9ca3af;
+}
+
+.submit-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.5);
+}
+
+.remove-btn {
+  background-color: red;
+}
+.add-connector {
+  background-color: blueviolet;
+}
+.home-page-btn {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+.dropdown-save {
+  background-color: #fddc2d;
+  border-radius: 25px;
+  color: #00121d;
+}
+.dropdown-clear {
+  background: none;
+  color: #00121d;
+  text-decoration: underline;
+  transform: none;
+  background-color: none;
+}
+.dropdown-save:focus {
+  box-shadow: none;
+}
+.dropdown-clear:focus {
+  transform: none;
+  background: none;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+.dropdown-clear:hover {
+  transform: none;
+  background: none;
+  border: none;
+}
+.dropdown-clear:disabled {
+  background-color: none;
+  background: none;
+}
+.add-charger {
+  color: #00121d;
+  border: 1px solid #d2d5da;
+  background: none;
+  border-radius: 25px;
+  padding: 12px;
+}

@@ -1,0 +1,12 @@
+.tooltip-container .tooltip-content {
+  position: absolute;
+  background-color: whitesmoke;
+  color: black;
+  padding: 8px;
+  border-radius: 4px;
+  z-index: 1000;
+  white-space: nowrap;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  margin-top: 8px;
+}

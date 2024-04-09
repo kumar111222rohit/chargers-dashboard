@@ -1,0 +1,22 @@
+.header-container {
+  padding: 16px;
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border-bottom: 1px solid lightgray;
+  z-index: 500;
+}
+.header-label {
+  font-weight: 600;
+  font-size: 24px;
+  color: #333;
+  font-family: monospace;
+}
+.header-main {
+  background-color: #f6f7fb;
+  z-index: 100;
+  font-size: 1rem;
+}

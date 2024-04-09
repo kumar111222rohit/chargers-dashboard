@@ -1,0 +1,10 @@
+{
+  "addCharger": "Laadstation toevoegen",
+  "clearFilters": "Filters wissen",
+  "exploreFuture": "Ontdek de toekomst van snel opladen",
+  "stationName": "Naam van station",
+  "country": "Land",
+  "chargerSerialNumber": "Serienummer van de oplader",
+  "connectorStatus": "Status van de connector",
+  "chargers": "Laders"
+}

@@ -1,0 +1,30 @@
+.modal-overlay {
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  z-index: 1000;
+  background: beige;
+}
+.modal-close-btn {
+  max-width: 70px;
+  margin: 12px;
+  align-self: flex-end;
+}
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px;
+  background-color: #ffd913;
+}
+.modal-header-text {
+  font-size: 18px;
+  font-weight: 600;
+}
+.modal-content {
+  padding: 16px;
+}

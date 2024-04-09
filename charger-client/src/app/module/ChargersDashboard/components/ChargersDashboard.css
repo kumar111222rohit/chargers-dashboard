@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: 14px;
+  font-size: 12px;
+  background-color: #eaf4f6;
+}
+.dashboard-container {
+  background-color: #eaf4f6;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
+.disconnected {
+  background-color: #fee2e2;
+  color: #df2a2a;
+  font-weight: 700;
+}
+.connected {
+  background-color: #e8feef;
+  font-weight: 700;
+  color: #21aa51;
+}
+.removed {
+  background-color: #f3f4f6;
+  color: #6d7280;
+  font-weight: 700;
+}
+.charging {
+  border: 1px solid #2a80e0;
+  color: #0073e6;
+  font-weight: 700;
+}
+.available {
+  border: 1px solid #21aa51;
+  color: #21aa51;
+  font-weight: 700;
+}
+.unavailable {
+  border: 1px solid #df2a2a;
+  color: #df2a2a;
+  font-weight: 700;
+}
+a {
+  text-decoration: none;
+}

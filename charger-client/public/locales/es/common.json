@@ -1,0 +1,10 @@
+{
+  "addCharger": "Añadir cargador",
+  "clearFilters": "Limpiar filtros",
+  "exploreFuture": "Explorar el futuro de la carga rápida",
+  "stationName": "Nombre de estación",
+  "country": "País",
+  "chargerSerialNumber": "Número de serie del cargador",
+  "connectorStatus": "Estado del conector",
+  "chargers": "Cargadores"
+}

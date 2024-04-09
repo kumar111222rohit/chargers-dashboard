@@ -1,0 +1,81 @@
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+
+  margin: 2rem;
+  font-family: monospace;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, 0);
+}
+.header {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 24px;
+  color: #333;
+}
+
+.form-container label {
+  display: block;
+  margin-bottom: 12px;
+  font-weight: 600;
+  color: #333;
+  font-size: 18px;
+}
+
+.form-container input[type='text'],
+.form-container select {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #d2d5da;
+
+  border-radius: 4px;
+  transition: border-color 0.3s;
+  width: 80%;
+}
+
+.form-container input[type='text']:focus,
+.form-container select:focus {
+  border-color: #7ab0d9;
+  outline: none;
+}
+
+.form-container button {
+  padding: 10px 15px;
+  border: none;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  max-width: 30%;
+}
+
+.form-container button:hover {
+  background-color: lightskyblue;
+  transform: scale(1.05);
+}
+
+.form-container button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.connector-wrapper {
+  display: flex;
+  gap: 20px;
+}
+.connectors {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.button-wrapper {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+  margin-top: 2rem;
+}

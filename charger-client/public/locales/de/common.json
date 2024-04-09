@@ -1,0 +1,10 @@
+{
+  "addCharger": "Ladegerät hinzufügen",
+  "clearFilters": "Filter löschen",
+  "exploreFuture": "Die Zukunft des Schnellladens erkunden",
+  "stationName": "Stationsname",
+  "country": "Land",
+  "chargerSerialNumber": "Seriennummer des Ladegeräts",
+  "connectorStatus": "Status des Anschlusses",
+  "chargers": "Ladegeräte"
+}
